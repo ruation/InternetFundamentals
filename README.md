@@ -23,6 +23,10 @@ The goal of this project is to understand the fundamental concepts behind the in
 - Build a solid foundation for web development
 - Create a useful reference for future studies
 
+## 📂 Project Structure
+
+- fundamentals/→ basic concepts
+
 ## 🛠️ Technologies
 
 - Markdown
