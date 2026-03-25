@@ -35,6 +35,7 @@ HTTP client and server communicate by sending text messages. The client sends a 
 
 An HTTP message consists of a message header and an optional message body, separated by a blank line, as illustrated below:
 
+'''
 hhhhhhhhhhhhhhh |
 hhhhhhhhhhhhhhh | ➡️ Message Header
 hhhhhhhhhhhhhhh |
@@ -57,3 +58,4 @@ Request Headers < | hhhhhhhhhhhhhhh |
                     bbbbbbbbbbbbbbb |
                     bbbbbbbbbbbbbbb |
                     **HTTP Request Message**
+'''
