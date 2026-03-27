@@ -25,8 +25,8 @@ Browsers act as a bridge between the user and the web. They request resources fr
 
 Protocols are rules that ensure data is sent and received correctly over the network.
 
-- **Internet Protocol (IP):** Responsible for addressing and routing packets to their destination.
-- **Transmission Control Protocol (TCP):** Ensures that packets are delivered reliably and in the correct order.
+- [**Internet Protocol (IP):**](../protocols/ip.md) Responsible for addressing and routing packets to their destination.
+- [**Transmission Control Protocol (TCP):**](../protocols/tcp.md) Ensures that packets are delivered reliably and in the correct order.
 - [**Domain Name System (DNS):**](../protocols/dns.md): The "phonebook of the Internet", that translates URL into IP Adress.
 - [**Hypertext Transfer Protocol (HTTP)**](../protocols/http.md): Responsible for communication between the client (browser) and the server.
 - **SSL/TLS:** Provides security through encryption.
