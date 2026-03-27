@@ -26,6 +26,7 @@ The goal of this project is to understand the fundamental concepts behind the in
 ## 📂 Project Structure
 
 - fundamentals/→ basic concepts
+- protocols/→ summary about some protocols
 
 ## 🛠️ Technologies
 
@@ -34,7 +35,7 @@ The goal of this project is to understand the fundamental concepts behind the in
 
 ## 📈 Status
 
-📖 Currently studying and updating progressively.
+✅ Completed.
 
 ## 🤝 Contributions
 
