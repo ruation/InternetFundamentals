@@ -21,6 +21,12 @@ A [**web browser**](browsers.md) is an application that allows users to access a
 
 Browsers act as a bridge between the user and the web. They request resources from web servers and display them in a human-readable format.
 
+## Servers
+
+A [**server**](servers.md) is a computer (or system) that provides resources, services, or data to other computers over a network. On the Internet, servers are responsible for storing websites, handling requests, and sending responses to clients (such as browsers).
+
+When you access a website, your browser sends a request to a server, and the server responds with the webpage content.
+
 ## Protocols
 
 Protocols are rules that ensure data is sent and received correctly over the network.

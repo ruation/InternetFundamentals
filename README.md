@@ -6,13 +6,15 @@ This repository documents my learning journey about how the internet works, from
 
 The goal of this project is to understand the fundamental concepts behind the internet, including how data travels, how websites work, and how different technologies interact.
 
+To start, read the ["what-is-the-internet"](fundamentals/what-is-the-internet.md) documentation.
+
 ## 📚 Topics Covered
 
 - What is the Internet?
 - How data travels (packets, routing)
-- IP addresses and DNS
-- HTTP and HTTPS
-- SSL/TLS
+- IP addresses and TCP
+- DNS
+- HTTP
 - How browsers work
 - Servers and hosting
 
